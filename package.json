@@ -1,0 +1,66 @@
+{
+  "name": "travel-app",
+  "version": "1.0.1",
+  "private": true,
+  "author": {
+    "name": "HemendraJawariya",
+    "email": "HemendraJawariya@gmail.com",
+    "url": "https://github.com/HemendraJawariya/Heylink"
+  },
+  "description": "Travel UI/UX App for Camping",
+  "keywords": [
+    "reactjs",
+    "nextjs",
+    "vercel",
+    "react",
+    "travel",
+    "travel-website",
+    "tailwindcss",
+    "ui/ux",
+    "js",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HemendraJawariya/Heylink.git"
+  },
+  "homepage": "https://github.com/HemendraJawariya/Heylink.git#readme",
+  "bugs": {
+    "url": "https://github.com/HemendraJawariya/Heylink.git/issues",
+    "email": "HemendraJawariya@gmail.com"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.21",
+    "next-pwa": "^5.6.0",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "tailwindcss": "^3",
+    "typescript": "^5"
+  },
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/HemendraJawariya"
+    },
+    {
+      "type": "Buy me a coffee",
+      "url": "https://www.buymeacoffee.com/hemendrajawariya"
+    }
+  ]
+}
